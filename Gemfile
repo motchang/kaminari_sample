@@ -34,7 +34,7 @@ gem 'unicorn'
 
 gem 'devise'
 gem 'factory_girl_rails'
-gem 'garage', github: 'cookpad/garage'
+gem 'the_garage', github: 'cookpad/garage'
 gem 'kaminari'
 
 group :development, :test do
